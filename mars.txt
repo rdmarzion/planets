@@ -3,3 +3,5 @@ but the mummy will appreciate the lack of humidity
 testing the mummy commands
 
 testing commit commands
+
+now get rid of some stuff
